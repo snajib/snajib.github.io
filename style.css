@@ -115,6 +115,10 @@ h2 {
 }
 
 .about-content h2 {
-    color: white;
+    color: black;
     padding-top: 120px;
+}
+
+.about-content h1 {
+    color: white;
 }
