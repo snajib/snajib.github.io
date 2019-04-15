@@ -22,6 +22,7 @@ header {
     text-align: center;
     padding: 20px 0;
     padding-left: 15px;
+    transition: 1s;
 }
 
 nav ul {
@@ -105,4 +106,15 @@ h1 {
 h2 {
     color:slategray;
     font-family: Roboto;
+    padding-left: 5px;
+}
+
+.about-content {
+    background-color: slategray;
+    height: 500px;
+}
+
+.about-content h2 {
+    color: white;
+    padding-top: 120px;
 }
