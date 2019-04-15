@@ -122,3 +122,16 @@ h2 {
 .about-content h1 {
     color: white;
 }
+
+.projects-section h1 {
+    padding-top: 100px;
+}
+
+.projects-section h2 {
+    padding-top: 120px;
+}
+
+.projects-section {
+    height: 500px;
+    background-color: white;
+}
